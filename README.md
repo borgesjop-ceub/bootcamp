@@ -1,0 +1,15 @@
+ Meu Currículo Online
+
+🔗 Acesse o site: https://borgesjop-ceub.github.io/bootcamp/
+
+
+
+---
+
+Projeto desenvolvido com:
+- HTML
+- CSS
+- JavaScript
+
+Objetivo:
+Criar um currículo online moderno e responsivo.
